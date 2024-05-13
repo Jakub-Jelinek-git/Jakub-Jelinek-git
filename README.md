@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.vectorstock.com/i/500p/77/62/application-development-digital-web-technology-vector-40627762.avif)
+![MasterHead](https://cdn.vectorstock.com/i/500p/77/62/application-development-digital-web-technology-vector-40627762.avif)
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A passionate developer from Czechia</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*w1BTUZctqyEYJrldIqJXqg.gif">
