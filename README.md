@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A passionate begginer developer from Czechia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakub-jelinek-git" alt="jakub-jelinek-git" /></a> </p>
-
 - 🔭 I’m currently working on **something cool**
 
 - 🌱 I’m currently learning **Intermediate Python**
