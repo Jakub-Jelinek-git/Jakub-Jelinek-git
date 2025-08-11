@@ -20,7 +20,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Meme to enlighten your day
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
